@@ -33,7 +33,7 @@
 		<name>LightningComponentBundle</name>
 	</types>
 	<types>
-		<members>*</members>
+		<members>Account.AllAccounts</members>
 		<name>ListView</name>
 	</types>
 	<types>
